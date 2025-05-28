@@ -59,6 +59,7 @@ Edit
    ```bash
    git clone https://github.com/yourusername/mini-compiler.git
    cd mini-compiler
+   
 Install Requirements (if any)
 
 bash
@@ -80,6 +81,7 @@ python test_lexer.py
 python test_parser.py
 python test_semantic.py
 python test_icg.py
+
 🧪 Sample Input
 plaintext
 Copy
