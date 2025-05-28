@@ -1,8 +1,3 @@
-# 🧠 Mini Compiler for a Custom Language (Python)
-
-This project is a **Mini Compiler** built using Python. It includes all the essential stages of compilation like lexical analysis, syntax analysis, semantic analysis, intermediate code generation, and more.
-
----
 
 ## 📁 Project Structure
 mini-compiler/
